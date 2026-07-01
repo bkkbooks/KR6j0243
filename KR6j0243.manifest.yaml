@@ -1,0 +1,42 @@
+canonical_identifier: bkk:krp/KR6j0243/v1
+canonical_location: https://kanripo.org/bkk/KR6j0243/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 佛說六字神呪王經
+  identifiers:
+    alt_id:
+    - T20n1045a
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1045a.xml
+    old_id: T20n1045a
+  edition:
+    short: bkk
+editions:
+- short: 大
+  label: 大
+  source_xml_id: wit.orig
+- short: T
+assets:
+  parts:
+  - {seq: 0, filename: KR6j0243_000.yaml, hash: 'sha256:85bd120c37bdf5d9edc5fb74ea92cb68cd9d4077e516b3dd1ded423117ac147a'}
+  - {seq: 1, filename: KR6j0243_001.yaml, hash: 'sha256:9e35bfd0f9681870d611bc594e92aafd3f849ca208b334762242346b23dca366'}
+  markers:
+  - {seq: 1, role: markers, filename: assets/KR6j0243_001.markers.yaml, hash: 'sha256:4029b5e76eeacc4c35cbaffb111add20245191d2a1fdbb0091d77dfbceceb120'}
+table_of_contents:
+- ref:
+    seq: 1
+    marker_id: KR6j0243_T_001-juan-start
+    span:
+    - body
+    - 0
+    - 2465
+  label: 佛說六字神呪王經
+  type: juan
+  level: 1
+hash: sha256:4aac306a51244e9bc0056163e5dba39a344651f628c74d8464a15b00dcdde6d4
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e

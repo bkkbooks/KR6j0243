@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6j0243/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 佛說六字神呪王經
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T20/T20n1045a.xml
+    old_id: T20n1045a
+hash: sha256:85bd120c37bdf5d9edc5fb74ea92cb68cd9d4077e516b3dd1ded423117ac147a
