@@ -22,9 +22,10 @@ editions:
 assets:
   parts:
   - {seq: 0, filename: KR6j0243_000.yaml, hash: 'sha256:85bd120c37bdf5d9edc5fb74ea92cb68cd9d4077e516b3dd1ded423117ac147a'}
-  - {seq: 1, filename: KR6j0243_001.yaml, hash: 'sha256:9e35bfd0f9681870d611bc594e92aafd3f849ca208b334762242346b23dca366'}
+  - {seq: 1, filename: KR6j0243_001.yaml, hash: 'sha256:e0aeebcf98b0fb8ced22fad79fcd4aa62217b5f2972a5c3d46ef6d63117508d0'}
   markers:
-  - {seq: 1, role: markers, filename: assets/KR6j0243_001.markers.yaml, hash: 'sha256:4029b5e76eeacc4c35cbaffb111add20245191d2a1fdbb0091d77dfbceceb120'}
+  - {seq: 0, role: markers, filename: assets/KR6j0243_000.markers.yaml, hash: 'sha256:be43a87523682aa9e058436502f13719a3d9f5908c2bbd6290a724421686f740'}
+  - {seq: 1, role: markers, filename: assets/KR6j0243_001.markers.yaml, hash: 'sha256:2dd25df8250ac2e429005989698d65e19002a6bc919059e24015dc61c7bf566c'}
 table_of_contents:
 - ref:
     seq: 1
@@ -36,7 +37,4 @@ table_of_contents:
   label: 佛說六字神呪王經
   type: juan
   level: 1
-hash: sha256:4aac306a51244e9bc0056163e5dba39a344651f628c74d8464a15b00dcdde6d4
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:2eff5157f761b0a7d38486c6aba72205052a2f84b73b9c0f26bfcde1ac689712
